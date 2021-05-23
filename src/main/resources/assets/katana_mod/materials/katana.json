@@ -1,0 +1,7 @@
+{
+	"layers": [
+		{
+			"fragmentSource": "katana_mod:shaders/material/katana.frag"
+		}
+	]
+}
