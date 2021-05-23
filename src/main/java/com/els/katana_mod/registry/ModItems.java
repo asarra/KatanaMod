@@ -1,8 +1,8 @@
-package com.elsyt.katana_mod.registry;
+package com.els.katana_mod.registry;
 
 
-import com.elsyt.katana_mod.Entrypoint;
-import com.elsyt.katana_mod.Katana;
+import com.els.katana_mod.Entrypoint;
+import com.els.katana_mod.Katana;
 import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;

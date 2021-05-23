@@ -1,6 +1,6 @@
-package com.elsyt.katana_mod;
+package com.els.katana_mod;
 
-import com.elsyt.katana_mod.registry.ModItems;
+import com.els.katana_mod.registry.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 public class Entrypoint implements ModInitializer{

@@ -1,4 +1,4 @@
-package com.elsyt.katana_mod;
+package com.els.katana_mod;
 
 import net.minecraft.item.Items;
 import net.minecraft.item.ToolMaterial;
